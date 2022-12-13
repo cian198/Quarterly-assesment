@@ -1,0 +1,35 @@
+body {
+  background-color: lightskyblue;
+}
+p {
+  color: black;
+  text-align: left;
+  font-family:cursive;
+  font-size: 15px
+}
+h1 {
+  font-weight: bold;
+  color:blue;
+  text-shadow: -2px 2px black;
+  text-decoration:underline;
+  text-align: center
+}
+h2 {
+  letter-spacing: 2px;
+  font-family: monospace;
+}
+.Self{border-color: red; border-width: 5px;border-style: double;border-radius: 30px;}
+h5{}
+.Camera{border-color: gray; border-width: 5px;border-style: double;border-radius: 30px;}
+.Basketball{border-color: orange; border-width: 5px;border-style: double;border-radius: 30px;}
+.Food{border-color: saddlebrown; border-width: 5px;border-style: double;border-radius: 30px;}
+h5{
+  text-align: left
+}
+hr{
+  width: 1500px;
+  color: black;
+}
+#credits {
+  font-size: 10px;
+}

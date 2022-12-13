@@ -1,0 +1,24 @@
+body{background-image: url(Backround-Earthquake.jpg)}
+
+h1 {color: firebrick; font-family: monospace; text-align: center; text-shadow: -2px 1px;
+  border-color: darkorange;
+  border-width: 5px;
+  border-style: double;
+  border-radius: 5px }
+
+h2 {color: red; font-family: fantasy; text-decoration: underline double; float;  
+  border-color: yellow;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 5px}
+
+p { color: orange; font-family: fantasy; letter-spacing: 2px }
+
+li{color: crimson;font-family: sans-serif;}
+
+h6{color: grey}
+
+img{border-color: red;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 10px}}
